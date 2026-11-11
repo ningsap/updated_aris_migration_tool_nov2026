@@ -1,0 +1,6 @@
+mail: <your mail>
+password: <your password>
+workspace: <your workspace ID>
+host: https://editor.signavio.com <or app-us. / app-au. respectively>
+# only for internal use:
+consumer_header: sdk-technical-services

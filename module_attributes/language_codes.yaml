@@ -1,0 +1,55 @@
+# LCID: "Signavio_locale" # Lang - Country locales are derived from BCP 47 Codes
+# Mapping for "de_be" is missing as there is no distinct built-in LCID
+1026: "bg_bg" # Bulgarian - Bulgaria
+1028: "zh_tw" # Chinese (Traditional) - Taiwan
+1029: "cs_cz" # Czech - Czech Republic
+1030: "da_dk" # Danish - Denmark
+1031: "de_de" # German - Germany
+1033: "en_us" # English - United States
+1034: "es_es" # Spanish - Spain
+1035: "fi_fi" # Finnish - Finland
+1036: "fr_fr" # French - France
+1038: "hu_hu" # Hungarian - Hungary
+1040: "it_it" # Italian - Italy
+1041: "ja_jp" # Japanese - Japan
+1042: "ko_kr" # Korean - South Korea
+1043: "nl_nl" # Dutch - Netherlands
+1044: "no_no" # Norwegian Bokmål - Norway
+1045: "pl_pl" # Polish - Poland
+1046: "pt_br" # Portuguese - Brazil
+1048: "ro_ro" # Romanian - Romania
+1049: "ru_ru" # Russian - Russia
+1051: "sk_sk" # Slovak - Slovakia
+1053: "sv_se" # Swedish - Sweden
+1054: "th_th" # Thai - Thailand
+1055: "tr_tr" # Turkish - Turkey
+1057: "id_id" # Indonesian - Indonesia
+1060: "sl_si" # Slovenian - Slovenia
+1061: "et_ee" # Estonian - Estonia
+1062: "lv_lv" # Latvian - Latvia
+1063: "lt_lt" # Lithuanian - Lithuania
+1066: "vi_vn" # Vietnamese - Vietnam
+1078: "af_za" # Afrikaans - South Africa
+1082: "mt_mt" # Maltese - Malta
+1134: "lb_lu" # Luxembourgish — Luxembourg
+2052: "zh_cn" # Chinese — China, Simplified
+2055: "de_ch" # German - Swiss
+2057: "en_gb" # English - United Kingdom
+2058: "es_mx" # Spanish – Mexico
+2060: "fr_be" # French - Belgium
+2064: "it_ch" # Italian — Switzerland
+2067: "nl_be" # Dutch — Belgium
+2070: "pt_pt" # Portuguese - Portugal
+2074: "sr_sr" # Serbian
+2108: "ie_ie" # Gaelic (Ireland)
+3079: "de_at" # German - Austria
+3081: "en_au" # English - Australia
+3084: "fr_ca" # French - Canada
+4103: "de_lu" # German - Luxembourg
+4105: "en_ca" # English - Canada
+4108: "fr_ch" # French - Switzerland
+5127: "de_li" # German - Lichtenstein
+5129: "en_nz" # English - New Zealand
+5132: "fr_lu" # French - Luxembourg
+7177: "en_za" # English - South Africa
+13322: "es_cl" # Spanish - Chile

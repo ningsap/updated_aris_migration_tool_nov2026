@@ -1,0 +1,20 @@
+[submodule "amlparser"]
+	path = amlparser
+	url = https://github.com/irem-ural/AML-Parser.git
+	branch = main
+[submodule "spmclient"]
+	path = spmclient
+	url = https://github.com/irem-ural/spm-client.git
+	branch = main
+[submodule "vc_model_builder"]
+	path = vc_model_builder
+	url = https://github.com/Signavio-Consulting/vc_model_builder.git
+	branch = main
+[submodule "diagramforge"]
+	path = diagramforge
+	url = https://github.com/irem-ural/diagramforge.git
+	branch = main
+[submodule "alloy"]
+	path = alloy
+	url = https://github.com/irem-ural/alloy.git
+	branch = main

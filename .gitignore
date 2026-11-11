@@ -1,0 +1,23 @@
+# Credentials and project-specific configs
+PROJECT_CONFIG_archive/
+
+# Input/output data
+input/
+output/
+
+# Serialized data files
+*.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store

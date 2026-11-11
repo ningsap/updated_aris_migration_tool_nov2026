@@ -1,0 +1,7 @@
+certifi
+charset-normalizer
+idna
+PyYAML
+requests
+urllib3
+loguru
